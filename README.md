@@ -10,12 +10,12 @@ Este sistema foi desenvolvido para proporcionar aos alunos uma experiência prá
 Inovar a maneira de vender entradas e divulgar eventos/shows, alcançando o maior publico possivel. De maneira a facultar a compra de ingressos de forma rápida e clara para o cliente final, assim solucionando a dor de pequenas e médias casas de shows e eventos.
 
 ### Funcionalidades:
-*Cadastro de usuário (login e senha)
-*Cadastro de casa de show.
-*Cadastro de evento
-*Configuração de usuário
-*Efetuar compra de ingresso
-*Confirmação de Compra
+* Cadastro de usuário (login e senha)
+* Cadastro de casa de show.
+* Cadastro de evento
+* Configuração de usuário
+* Efetuar compra de ingresso
+* Confirmação de Compra
 
 ### Documentação
 Aqui são apresentadas toda a documentação que foi construída no perído de construção do projeto.
@@ -43,6 +43,8 @@ Aqui será apresentado todos os passos necessários para a utilização do proje
 7. no arquivo chamado 'main.py' procurar a parte app.config com o comentario de '#seuUsuario:suaSenha' e alterar o usuario e senha, vai estar assim "postgres:22012006" - sendo postgres o usuario e 22012006 a senha(inserir a senha e usuario proprio)
 8. Usar o comando no terminal 'pip install -r requirements.txt'
 9. Dar play na main do python.
+
+___
 
 
 * Aluno 1: Ana Beatriz Cordeiro Belmiro
